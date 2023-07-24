@@ -1,6 +1,8 @@
 # Automated Parking System
 Automated Parking System (Advanced Database Management) 
 
+Please read the documentation: Documentation.pdf before going through the below comments
+
 Google Colab Link: https://colab.research.google.com/drive/1iIcM2LV_eXZ6o9PMCn7pTxKCbEbW3QFF?usp=sharing
 
 #Steps to Run the Application:
