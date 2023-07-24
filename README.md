@@ -1,9 +1,5 @@
 # Automated Parking System
-Automated Parking System CPSC 531 Advanced Database Management 
-
-Team Members:
-Tejaas Mukunda Reddy: CWID 886702844
-Sai Chand Meda: CWID 885237370
+Automated Parking System (Advanced Database Management) 
 
 Google Colab Link: https://colab.research.google.com/drive/1iIcM2LV_eXZ6o9PMCn7pTxKCbEbW3QFF?usp=sharing
 
